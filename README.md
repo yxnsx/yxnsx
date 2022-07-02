@@ -8,7 +8,15 @@
 - 같은 목표를 지닌 사람들과의 관계에서 행복을 느낍니다.
 <br>
 
-###  Experiences
+---
+### Skills
+| Language | Architecture | AAC | Firebase |
+| -------- | ------------ | --- | -------- |
+| <img alt="Java" src ="https://img.shields.io/badge/Java-7F52FF.svg?"/> <br> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?"/> | <img alt="MVVM" src ="https://img.shields.io/badge/MVVM-3776AB.svg?"/> <br> <img alt="CleanArchitecture" src ="https://img.shields.io/badge/CleanArchitecture-3776AB.svg?"/> | <img alt="ViewBinding" src ="https://img.shields.io/badge/ViewBinding-006600.svg?"/> <br> <img alt="DataBinding" src ="https://img.shields.io/badge/DataBinding-006600.svg?"/> <br> <img alt="ViewModel" src ="https://img.shields.io/badge/ViewModel-006600.svg?"/> <br> <img alt="LiveData" src ="https://img.shields.io/badge/LiveData-006600.svg?"/> | <img alt="Authentication" src ="https://img.shields.io/badge/Authentication-FD5300.svg?"/> <br> <img alt="Crashlytics" src ="https://img.shields.io/badge/Crashlytics-FD5300.svg?"/> <br> <img alt="CloudMessaging" src ="https://img.shields.io/badge/CloudMessaging-FD5300.svg?"/> <br> <img alt="RemoteConfig" src ="https://img.shields.io/badge/RemoteConfig-FD5300.svg?"/> <br> <img alt="Firestore" src ="https://img.shields.io/badge/Firestore-FD5300.svg?"/> <br> <img alt="Storage" src ="https://img.shields.io/badge/Storage-FD5300.svg?"/> <br> 
+<br>
+
+---
+### Experiences
 | Date | Title | Type |
 | ---- | ----- | ---- |
 | 2022/07 ~ 진행중 | 🟣 [Nexters 21th](https://www.instagram.com/team_nexters/) | Android developer |
