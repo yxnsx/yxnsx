@@ -17,11 +17,11 @@
 
 ---
 ### Experiences
-| Date | Title | Type |
-| ---- | ----- | ---- |
-| 2022/07 ~ 진행중 | 🟣 [Nexters 21th](https://www.instagram.com/team_nexters/) | Android developer |
-| 2020/10 ~ 2021/01 | 🟡 [SOPT 27th](https://www.instagram.com/sopt_official/) | Android developer |
-| 2015/03 ~ 2022/02 | 🔵 숙명여자대학교 |  시각영상디자인과 졸업 |
+| Date | Title | Description | Type |
+| ---- | ----- | ----------- | ---- |
+| 2022/07 ~ 진행중 | 🟣 [Nexters 21th](https://www.instagram.com/team_nexters/) | 개발자와 디자이너를 위한 IT 커뮤니티 | Android developer |
+| 2020/10 ~ 2021/01 | 🟡 [SOPT 27th](https://www.instagram.com/sopt_official/) | 대학생 연합 IT 벤처 창업 동아리 | Android developer |
+| 2015/03 ~ 2022/02 | 🔵 숙명여자대학교 | 시각영상디자인과 | 학사 |
 <br>
 
 ---
