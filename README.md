@@ -19,7 +19,7 @@
 ### Experiences
 | Date | Title | Type |
 | ---- | ----- | ---- |
-| 2023/08 ~ 진행중 | [SOPT Makers 3th](https://makers.sopt.org/) | Android developer |
+| 2023/08 ~ 2024/01 | [SOPT Makers 3th](https://makers.sopt.org/) | Android developer |
 | 2023/07 ~ 2023/08 | [Nexters 23th](https://www.instagram.com/team_nexters/) | Android developer |
 | 2022/07 ~ 2022/08 | [Nexters 21th](https://www.instagram.com/team_nexters/) | Android developer |
 | 2020/10 ~ 2021/01 | [SOPT 27th](https://www.instagram.com/sopt_official/) | Android developer |
